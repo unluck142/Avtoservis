@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"OrderDataTest::testValidateOrderData":0.003,"OrderDataTest::testFioNotValidate":0,"OrderDataTest::testAddressNotValidate":0,"OrderDataTest::testPhoneWithDashesNotValid":0,"OrderDataTest::testPhoneWithWrongFirstDigitNotValid":0,"OrderDataTest::testEmailNotValidate":0}}
